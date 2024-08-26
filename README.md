@@ -1,4 +1,4 @@
 # Repo to manage the organization README externally visible at [eTip landing page](https://github.com/eTipio).
 
-- For more read Github [docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
-- For internal README go [here](https://github.com/eTipio/.github-private).
+- For more, read Github [docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
+- For internal [README](https://github.com/eTipio/.github-private).
