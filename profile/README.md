@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://etip.io/"><img src="https://github.com/eTipio/.github/blob/develop/profile/banner.png?raw=true"></a>
 
 <!--
 
